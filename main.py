@@ -4,7 +4,7 @@ import face_recognition
 
 imgOne = face_recognition.load_image_file('Images/gabby.jpg')
 imgOne = cv2.cvtColor(imgOne, cv2.COLOR_BGR2RGB)
-imgTwo = face_recognition.load_image_file('Images/Me.jpg')
+imgTwo = face_recognition.load_image_file('Images/Nicoh.jpg')
 imgTwo = cv2.cvtColor(imgTwo, cv2.COLOR_BGR2RGB)
 
 faceLoc = face_recognition.face_locations(imgOne)[0]
