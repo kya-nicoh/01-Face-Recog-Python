@@ -9,6 +9,8 @@ An attempt to create a software that recognizes faces from a repository and show
 
 ## Future plans
 - Implement it inside the drone to identify people from far.
+- Reduce Lag from Camera
+- Add to table, name, time date
 
 # Facial recognition python
 [source](#https://www.youtube.com/watch?v=sz25xxF_AVE)
