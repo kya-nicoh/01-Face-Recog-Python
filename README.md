@@ -1,5 +1,6 @@
 # 01-Face-Recog-Python
 source: https://bit.ly/3ySH8rW
+[Video Source](#https://youtu.be/sz25xxF_AVE)
 
 ## Notes
 An attempt to create a software that recognizes faces from a repository and shows their name.
